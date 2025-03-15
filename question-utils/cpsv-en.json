@@ -1,0 +1,102 @@
+{
+    "PublicService": {
+        "name": "Income Support for Mountainous and/or Disadvantaged Areas",
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Tax Identification Number (TIN) Certificate",
+                        "description": "Proof of the applicant’s Tax Identification Number."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Identity Card or Passport",
+                        "description": "An identification document (conditionally required)."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "Certificate of Registration for EU, EEA, or Swiss Citizens",
+                        "description": "A certificate (conditionally required) proving that the applicant is a citizen of the EU, the EEA, or Switzerland."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "Mayor’s Certificate for Two-Year Residency",
+                        "description": "A certificate issued by the Mayor of the applicant’s place of residence, confirming at least two (2) years of continuous residence in the specific mountainous and disadvantaged area."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "evs": [
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "Court Decision or Custody Assignment Order",
+                        "description": "A court decision or an order assigning custody of a minor child, or a notarial act of recognition."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "evs": [
+                    {
+                        "id": "ev0007",
+                        "type": "Evidence",
+                        "name": "Notarial Act of Child Recognition",
+                        "description": "A notarial document confirming the recognition of the child."
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "evs": [
+                    {
+                        "id": "ev0008",
+                        "type": "Evidence",
+                        "name": "Authorization or Power of Attorney for a Third Party",
+                        "description": "An authorization or a notarized power of attorney for the representation of the applicant."
+                    }
+                ]
+            }        
+        ],
+        "criterion_requirements": [
+            {
+                "id": "cr0001",
+                "name": "Family Member"
+            },
+            {
+                "id": "cr0002",
+                "name": "Permanent residence in mountainous and/or disadvantaged areas for at least two (2) years before the application submission."
+            },
+            {
+                "id": "cr0003",
+                "name": "The annual family income of beneficiaries must not exceed four thousand seven hundred (4,700.00) euros."
+            },
+            {
+                "id": "cr0004",
+                "name": "At least one member of the family must be a citizen of: (a) The Hellenic Republic (Greece), (b) A European Union Member State, (c) A state belonging to the European Economic Area (Norway, Iceland, and Liechtenstein), (d) The Swiss Confederation."
+            }
+        ]
+    }
+}

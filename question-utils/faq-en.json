@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "question": "How much does the issuance of the transportation card for the disabled cost?",
+        "answer": "It is provided free of charge."
+    },
+    {
+        "id": 1,
+        "question": "My family moved from a mountainous and/or disadvantaged area to a different mountainous and/or disadvantaged area during the last tax year. Does this create a problem for receiving the financial support?",
+        "answer": "No, as long as you continue to reside in a mountainous and/or disadvantaged area."
+    },
+    {
+        "id": 2,
+        "question": "How often are applications submitted?",
+        "answer": "Applications are submitted from September 1st to October 30th each year. For the 2019 applications, an announcement will be made regarding the submission date."
+    },
+    {
+        "id": 3,
+        "question": "Do I have to submit an application every year?",
+        "answer": "The application is submitted once. If approved, it is considered valid for each subsequent year without the need for a new application. In this case, the financial support continues to be granted following the issuance of an approval decision for each year, provided that the annual cross-checks confirm that the eligibility criteria for the financial support are met."
+    },
+    {
+        "id": 4,
+        "question": "My application was rejected. When can I submit a new one?",
+        "answer": "You can submit a new application the following year."
+    },
+    {
+        "id": 5,
+        "question": "My application was rejected. Can I file an appeal?",
+        "answer": "You can file an appeal against the rejection decision for all reasons except those related to income."
+    },
+    {
+        "id" : 6,
+        "question": "What is the amount of the financial support provided?",
+        "answer": "A) €600 per year, if the total annual family income of the beneficiaries does not exceed €3,000 <br>B) €300 per year, if the total annual family income of the beneficiaries is between €3,000.01 and €4,700"
+    },
+    {
+        "id" : 7,
+        "question": "When is the financial support paid by O.P.E.K.A?",
+        "answer": "On the last working day of the following month after the month in which the approval decision is issued, with a deposit into the declared bank account of the beneficiary."
+    },
+    {
+        "id": 8,
+        "question": "How can I find out if the area where I live falls under the mountainous and/or disadvantaged areas?",
+        "answer": "A relevant list is posted in the Mountainous and Disadvantaged Areas application as well as on the O.P.E.K.A website."
+    }
+]

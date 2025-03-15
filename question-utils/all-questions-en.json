@@ -1,0 +1,43 @@
+[
+    {
+        "id": 0,
+        "question": "Which of the following service channels do you intend to use for submitting the application?",
+        "options": ["Citizen Service Centers", "Family Benefits Directorate OPEKA", "Unified Digital Portal of Public Administration (EYP - gov.gr)"]
+    },
+    {
+        "id": 1,
+        "question": "Are you a permanent and legal resident of Greece?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 2,
+        "question": "What is your family status?",
+        "options": ["<strong>Family member</strong> (married couple or cohabitation agreement with minor unmarried children living together)",
+                    "<strong>Single-parent family</strong> (one parent with minor children under the same roof)",
+                    "<strong>Individual without a family</strong> (does not meet the above conditions, e.g., unmarried without children, married without children, etc.)"]
+    },
+    {
+        "id": 3,
+        "question": "What is the nature of the area in which you permanently reside?",
+        "options": ["Mountainous area", "Urban area", "Disadvantaged area"]
+    },
+    {
+        "id": 4,
+        "question": "Have you been continuously residing in the above area for at least two (2) years prior to submitting the application?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 5,
+        "question": "What is your annual family income, excluding benefits such as Minimum Guaranteed Income and child benefit?",
+        "options": ["Up to €3,000", "€3,000.01 - €4,700", "Above €4,700"]
+    },
+    {
+        "id": 6,
+        "question": "Please indicate your status: Do you or any member of your family (spouse/partner) hold citizenship from any of the following countries?",
+        "options": ["Greece",
+                    "European Union Member State",
+                    "European Economic Area (Norway, Iceland, Liechtenstein)",
+                    "Switzerland",
+                    "None of the above"]
+    }
+]
